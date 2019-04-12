@@ -1,7 +1,7 @@
 ---
 title: "Live at Minicon 54"
 date: 2019-04-12T03:06:31Z
-draft: true
+draft: false
 ---
 
 Gernsback Continuum will be performing live at 
